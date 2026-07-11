@@ -1,0 +1,22 @@
+# Fortran build artifacts
+*.o
+*.mod
+*.smod
+fortran/segregation
+
+# Simulation output
+*.dat
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
